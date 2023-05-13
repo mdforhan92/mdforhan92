@@ -7,7 +7,8 @@
 
 - 💬 Ask me about **Web Problem & Solution**
 
-- 📫 How to reach me **mdforhan94@gmail.com**
+- Email: **mdforhan94@gmail.com**
+-  WhatsApp: +880-01819-365933
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
