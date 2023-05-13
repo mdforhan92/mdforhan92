@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdforhan92&label=Profile%20views&color=0e75b6&style=flat" alt="mdforhan92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdforhan92" alt="mdforhan92" /></a> </p>
+
 
 - 💬 Ask me about **Web Problem & Solution**
-
-- Email: **mdforhan94@gmail.com**
--  WhatsApp: +880-01819-365933
+- from <b> Bangladesh </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
