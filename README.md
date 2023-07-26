@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Forhan</h1>
+<h1 align="center">Hi 👋, I'm Bokhtiar</h1>
 <h3 align="center">🌱 I’m currently learning MERN Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdforhan92&label=Profile%20views&color=0e75b6&style=flat" alt="mdforhan92" /> </p>
